@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(polices/montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+  font-family: Montserrat-smbitalic;
+  src: url(polices/Montserrat-SemiBoldItalic.ttf);
+}
+body {
+  background-color: grey;
+  margin: 0;
+  font-family: Montserrat; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
